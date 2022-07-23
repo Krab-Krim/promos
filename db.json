@@ -1,0 +1,316 @@
+{
+  "promo": [
+    {
+      "id": 1,
+      "promo": "promo_egnhnchvvn",
+      "date": {
+        "start": 1618174800,
+        "end": 1621803600
+      },
+      "use_count": 8,
+      "creator": 5
+    },
+    {
+      "id": 2,
+      "promo": "promo_oclneafbbi",
+      "date": {
+        "start": 1625432400,
+        "end": 1629061200
+      },
+      "use_count": 2,
+      "creator": 3
+    },
+    {
+      "id": 3,
+      "promo": "promo_ievnqbeakw",
+      "date": {
+        "start": 1614459600,
+        "end": 1618088400
+      },
+      "use_count": 8,
+      "creator": 6
+    },
+    {
+      "id": 4,
+      "promo": "promo_luvgadnilf",
+      "date": {
+        "start": 1627160400,
+        "end": 1630789200
+      },
+      "use_count": 3,
+      "creator": 9
+    },
+    {
+      "id": 5,
+      "promo": "promo_hvlwbghqnc",
+      "date": {
+        "start": 1625259600,
+        "end": 1628888400
+      },
+      "use_count": 10,
+      "creator": 8
+    },
+    {
+      "id": 6,
+      "promo": "promo_lbfchbwakv",
+      "date": {
+        "start": 1639515600,
+        "end": 1643144400
+      },
+      "use_count": 6,
+      "creator": 5
+    },
+    {
+      "id": 7,
+      "promo": "promo_wilidoncwv",
+      "date": {
+        "start": 1613941200,
+        "end": 1617570000
+      },
+      "use_count": 7,
+      "creator": 6
+    },
+    {
+      "id": 9,
+      "promo": "promo_kqlcuabvbg",
+      "date": {
+        "start": 1632171600,
+        "end": 1635800400
+      },
+      "use_count": 3,
+      "creator": 2
+    },
+    {
+      "id": 10,
+      "promo": "promo_dadhlicivl",
+      "date": {
+        "start": 1621026000,
+        "end": 1624654800
+      },
+      "use_count": 8,
+      "creator": 0
+    },
+    {
+      "id": 11,
+      "promo": "promo_dncwbqodlm",
+      "date": {
+        "start": 1618261200,
+        "end": 1621890000
+      },
+      "use_count": 5,
+      "creator": 9
+    },
+    {
+      "id": 12,
+      "promo": "promo_svicfbevvf",
+      "date": {
+        "start": 1621890000,
+        "end": 1625518800
+      },
+      "use_count": 6,
+      "creator": 0
+    },
+    {
+      "id": 13,
+      "promo": "promo_iiwgbhvavn",
+      "date": {
+        "start": 1629320400,
+        "end": 1632949200
+      },
+      "use_count": 7,
+      "creator": 7
+    },
+    {
+      "id": 15,
+      "promo": "promo_ivhhnhigec",
+      "date": {
+        "start": 1613422800,
+        "end": 1617051600
+      },
+      "use_count": 0,
+      "creator": 6
+    },
+    {
+      "id": 16,
+      "promo": "promo_liflbifubv",
+      "date": {
+        "start": 1610658000,
+        "end": 1614286800
+      },
+      "use_count": 2,
+      "creator": 5
+    },
+    {
+      "id": 17,
+      "promo": "promo_vakngnnvsw",
+      "date": {
+        "start": 1624827600,
+        "end": 1628456400
+      },
+      "use_count": 6,
+      "creator": 7
+    },
+    {
+      "id": 19,
+      "promo": "promo_anvcegaevl",
+      "date": {
+        "start": 1619211600,
+        "end": 1622840400
+      },
+      "use_count": 0,
+      "creator": 8
+    },
+    {
+      "id": 20,
+      "promo": "promo_fhakynueve",
+      "date": {
+        "start": 1632258000,
+        "end": 1635886800
+      },
+      "use_count": 0,
+      "creator": 2
+    },
+    {
+      "id": 21,
+      "promo": "promo_hgmcqyhvev",
+      "date": {
+        "start": 1610917200,
+        "end": 1614546000
+      },
+      "use_count": 5,
+      "creator": 0
+    },
+    {
+      "id": 22,
+      "promo": "promo_kvidkgbwwf",
+      "date": {
+        "start": 1614718800,
+        "end": 1618347600
+      },
+      "use_count": 1,
+      "creator": 1
+    },
+    {
+      "id": 23,
+      "promo": "promo_bvviknobqv",
+      "date": {
+        "start": 1638910800,
+        "end": 1642539600
+      },
+      "use_count": 1,
+      "creator": 2
+    },
+    {
+      "id": 24,
+      "promo": "promo_bnvmvgdbbn",
+      "date": {
+        "start": 1629320400,
+        "end": 1632949200
+      },
+      "use_count": 6,
+      "creator": 9
+    },
+    {
+      "id": 26,
+      "promo": "promo_dgbbwicclh",
+      "date": {
+        "start": 1623790800,
+        "end": 1627419600
+      },
+      "use_count": 7,
+      "creator": 3
+    },
+    {
+      "id": 27,
+      "promo": "promo_vvvckgdvms",
+      "date": {
+        "start": 1632085200,
+        "end": 1635714000
+      },
+      "use_count": 0,
+      "creator": 1
+    },
+    {
+      "id": 28,
+      "promo": "promo_lheeluqcfm",
+      "date": {
+        "start": 1625518800,
+        "end": 1629147600
+      },
+      "use_count": 0,
+      "creator": 3
+    },
+    {
+      "id": 29,
+      "promo": "promo_ysqldwuhcv",
+      "date": {
+        "start": 1623531600,
+        "end": 1627160400
+      },
+      "use_count": 3,
+      "creator": 8
+    },
+    {
+      "id": 30,
+      "promo": "promo_bouvvelicb",
+      "date": {
+        "start": 1612904400,
+        "end": 1616533200
+      },
+      "use_count": 10,
+      "creator": 0
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "username": "user_bnalhlaq",
+      "password": "nwng"
+    },
+    {
+      "id": 1,
+      "username": "user_qosevwnk",
+      "password": "iash"
+    },
+    {
+      "id": 2,
+      "username": "user_smhvesck",
+      "password": "blhc"
+    },
+    {
+      "id": 3,
+      "username": "user_sdhlvuww",
+      "password": "nksq"
+    },
+    {
+      "id": 4,
+      "username": "user_edsbeqcq",
+      "password": "iaib"
+    },
+    {
+      "id": 5,
+      "username": "user_iweccinb",
+      "password": "fvew"
+    },
+    {
+      "id": 6,
+      "username": "user_whwabcvi",
+      "password": "vhvl"
+    },
+    {
+      "id": 7,
+      "username": "user_vbeqqcnb",
+      "password": "niwh"
+    },
+    {
+      "id": 8,
+      "username": "user_valwvwgk",
+      "password": "hahy"
+    },
+    {
+      "id": 9,
+      "username": "user_iwknungh",
+      "password": "bgig"
+    }
+  ]
+}
