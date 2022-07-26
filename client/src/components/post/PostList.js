@@ -8,7 +8,7 @@ import {
     ShowButton,
     ReferenceInput,
     TextInput,
-    SelectInput
+    SelectInput, ReferenceField
 } from "react-admin";
 
 const postFilters = [
@@ -24,10 +24,12 @@ const PostList = (props) => {
             <Datagrid>
                 <TextField source="id"/>
                 <TextField source="promo"/>
+                <ReferenceField source="id" reference="users" label="users">
+                    <TextField source="username" />
+                </ReferenceField>
                 <TextField source="date.start"/>
                 <TextField source="date.end"/>
                 <TextField source="use_count"/>
-                <TextField source="creator"/>
                 <EditButton/>
                 <DeleteButton/>
                 <ShowButton/>

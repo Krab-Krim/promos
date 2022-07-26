@@ -7,7 +7,7 @@ import {
     ReferenceInput,
     SelectInput,
     EditButton,
-    DeleteButton
+    DeleteButton, ReferenceField
 } from 'react-admin';
 
 export const UserList = props => {
@@ -22,6 +22,9 @@ export const UserList = props => {
         <List {...props} filters={postFilters}>
             <Datagrid>
                 <TextField source="id"/>
+                <ReferenceField source="id" reference="promo" label="promo">
+                    <TextField source="promo" />
+                </ReferenceField>
                 <TextField source="username"/>
                 <TextField source="password"/>
                 <EditButton/>
